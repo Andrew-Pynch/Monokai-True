@@ -1,0 +1,43 @@
+{
+  "name": "monokai-true",
+  "displayName": "Monokai True",
+  "version": "0.1.0",
+  "publisher": "andrew-pynch",
+  "description": "",
+  "author": {
+    "name": "andrew-pynch"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/Rick.jpg",
+  "galleryBanner": {
+    "color": "#C80000",
+    "theme": "dark"
+  },
+  "activationEvents": [
+    "onLanguage:markdown"
+  ],
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "main": "./out/extension",
+  "scripts": {
+    "vscode:prepublish": "",
+    "compile": ""
+  },
+  "devDependencies": {
+    "vscode": "0.10.x",
+    "typescript": "^1.6.2"
+  },
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/Andrew-Pynch/Monokai-True/issues",
+    "email": "andrewpynchbusiness@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Andrew-Pynch/Monokai-True.git"
+  },
+  "homepage": "https://github.com/Andrew-Pynch/Monokai-True"
+}
